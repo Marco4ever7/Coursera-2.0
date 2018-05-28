@@ -23,7 +23,7 @@ div.content {					/* The coloured box */
 	position:relative;
 	color: white;
 	padding: 0px;
-	background-color: #5c8a8a;
+	background-color: #80ffaa;
 	border: 1px solid;
 	border-color: black;
 	margin:10px 8px 20px 8px;
@@ -58,14 +58,14 @@ p.par {
 	padding:8px; 
 }
 #chkn {
-	background-color: #4d004d;
+	background-color: #ff00ff;
 }
 
 #bf {
-	background-color: #003366 ; 
+	background-color: #001a33 ; 
 }
 #sushi {
-	background-color: #004d00 ; 
+	background-color: #00ff00 ; 
 }
 
  /* For Large devices*/
